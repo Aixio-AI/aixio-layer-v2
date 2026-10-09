@@ -1,5 +1,8 @@
 <div align="center">
-  <img src="assets/logo.png" width="88" alt="Aixio logo">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/logo-dark.png">
+    <img src="assets/logo.png" width="88" alt="Aixio logo">
+  </picture>
 
   # Aixio Layer v2 — Image-to-Layer AI Model
 
