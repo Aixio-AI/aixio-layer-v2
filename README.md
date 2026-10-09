@@ -10,12 +10,22 @@
 
   On a 150-design image-to-layer benchmark, Aixio Layer v2 recovered **8,096 valid editable layers**: **1.7×** the next best system and **2.1×** Canva Magic Layers, in about **47 seconds per image**.
 
-  [Try in Aixio Studio](https://aixio.app/studio) · [Benchmark](#benchmark) · [Samples](#samples) · [What you get back](#what-you-get-back) · [Layer v1](https://github.com/aixioofficial/Aixio-layer-v1.0)
+  [Try in Aixio Studio](https://aixio.app/studio) · [Watch the video](https://youtu.be/sQPr_dMh9ig) · [Benchmark](#benchmark) · [Samples](#samples) · [What you get back](#what-you-get-back) · [Layer v1](https://github.com/aixioofficial/Aixio-layer-v1.0)
 </div>
 
 ---
 
 ![A flat infographic separated into editable layers by Aixio Layer v2](assets/hero.jpg)
+
+## See it in action
+
+<div align="center">
+  <a href="https://youtu.be/sQPr_dMh9ig">
+    <img src="assets/video-thumbnail.jpg" alt="Watch Introducing Aixio Layer v2" width="820">
+  </a>
+  <br>
+  <sub>Introducing Aixio Layer v2 — click to watch on YouTube</sub>
+</div>
 
 ## What's new in v2
 
